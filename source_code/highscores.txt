@@ -1,0 +1,3 @@
+zaid 30
+jimbo 10
+bill 1

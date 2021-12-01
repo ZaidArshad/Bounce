@@ -1,0 +1,3 @@
+bob 50
+tim 25
+jimbo 10
