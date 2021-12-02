@@ -8,7 +8,7 @@ Bounce is a fast paced game coded in Python that tests the user’s reaction tim
 This is the first major programming project that I worked on outside of my academics. It was also my first experience with programming a GUI from scratch. While software design is lacking from this project, building on my fundamentals of coding was the objective.
 
 ## Controls
-Arrow keys: Direction to corresponding color to the bottom for the square to bounce on.
+Arrow keys: Direction to the corresponding color to move to the bottom for the square to bounce on.
 
 ## Executable
 I wanted to easily be able to share this project with my friends and peers so I manually created an executable using cx_Freeze in the powershell. The executable can be found on the Release page on this repository.
