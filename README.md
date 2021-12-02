@@ -11,9 +11,7 @@ This is the first major programming project that I worked on outside of my acade
 Arrow keys: Direction to corresponding color to the bottom for the square to bounce on.
 
 ## Executable
-I wanted to easily be able to share this project with my friends and peers so I manually created an executable using cx_Freeze in the powershell. The executable can be found in: 
-
-```source_code -> bounce.exe```
+I wanted to easily be able to share this project with my friends and peers so I manually created an executable using cx_Freeze in the powershell. The executable can be found on the Release page on this repository.
 
 ## High Score
 The high score system is made up of a simple reader/writer system for the generic text file ```highscores.txt```. This was not the best way to do it as I have it writing raw text to the file that can easily break the game if manipulated. 
