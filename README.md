@@ -4,7 +4,7 @@ Project by Zaid Arshad. Developed from June to July 2019
 ## Description
 Bounce is a fast paced game coded in Python that tests the user’s reaction time and color recognition. The objective of the game is to get the color at the bottom to match the bouncing square. The game ends when the user fails to meet these requirements.
 
-## About
+## Experience
 This is the first major programming project that I worked on outside of my academics. It was also my first experience with programming a GUI from scratch. While software design is lacking from this project, building on my fundamentals of coding was the objective.
 
 ## Controls
