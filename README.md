@@ -9,12 +9,18 @@ This is the first major programming project that I worked on outside of my acade
 
 ## Controls
 Arrow keys: Direction to the corresponding color to move to the bottom for the square to bounce on.
+<div align="center">
+  <img src='https://user-images.githubusercontent.com/52565263/144717313-1eb91146-bb54-4197-aa8e-a8759cdf7136.png'/>
+</div>
 
 ## Executable
 I wanted to easily be able to share this project with my friends and peers so I manually created an executable using cx_Freeze in the powershell. The executable can be found on the Release page on this repository.
 
 ## High Score
-The high score system is made up of a simple reader/writer system for the generic text file ```highscores.txt```. This was not the best way to do it as I have it writing raw text to the file that can easily break the game if manipulated. 
+The high score system is made up of a simple reader/writer system for the generic text file ```highscores.txt```. This was not the best way to do it as I have it writing raw text to the file that can easily break the game if manipulated.
+<div align="center">
+  <img src='https://user-images.githubusercontent.com/52565263/144717680-77315163-50be-4e88-a933-dd630835370a.gif' width="500"/>
+</div>
 
 ## Demo Video
 <div align="center">
