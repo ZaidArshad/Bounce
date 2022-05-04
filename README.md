@@ -1,28 +1,4 @@
 # Bounce
-Project by Zaid Arshad. Developed from June to July 2019
 
-## Description
-Bounce is a fast paced game coded in Python that tests the user’s reaction time and color recognition. The objective of the game is to get the color at the bottom to match the bouncing square. The game ends when the user fails to meet these requirements.
-
-## Experience
-This is the first major programming project that I worked on outside of my academics. It was also my first experience with programming a GUI from scratch. While software design is lacking from this project, building on my fundamentals of coding was the objective.
-
-## Controls
-Arrow keys: Direction to the corresponding color to move to the bottom for the square to bounce on.
-<div align="center">
-  <img src='https://user-images.githubusercontent.com/52565263/144717313-1eb91146-bb54-4197-aa8e-a8759cdf7136.png'/>
-</div>
-
-## Executable
-I wanted to easily be able to share this project with my friends and peers so I manually created an executable using cx_Freeze in the powershell. The executable can be found on the Release page on this repository.
-
-## High Score
-The high score system is made up of a simple reader/writer system for the generic text file ```highscores.txt```. This was not the best way to do it as I have it writing raw text to the file that can easily break the game if manipulated.
-<div align="center">
-  <img src='https://user-images.githubusercontent.com/52565263/144717680-77315163-50be-4e88-a933-dd630835370a.gif' width="500"/>
-</div>
-
-## Demo Video
-<div align="center">
-  <video src='https://user-images.githubusercontent.com/52565263/144264028-13184e62-f1e9-41e9-9d22-d4b225a35bbd.mp4'/>
-</div>
+Read more about this project at my 
+<a href="https://zaidarshad.github.io/bounce">website!</a>
